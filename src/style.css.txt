@@ -1,0 +1,8 @@
+.timmerstyle{
+    display: flex;
+ flex-direction: row;
+ justify-content: center;
+}
+.timmer{
+    margin:20px
+}
